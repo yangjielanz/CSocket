@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "异步通知IO模型服务器", "异步通知IO模型\异步通知IO模型.vcxproj", "{D1B64F7E-3826-404B-A69B-EB89B200102B}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "异步通知IO模型客户端", "异步通知IO模型客户端\异步通知IO模型客户端.vcxproj", "{1AB02242-E239-4C16-BF29-1748133EC5F0}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "客户端2", "客户端2\客户端2.vcxproj", "{50884459-E0A8-4454-BF41-E6646C9D0812}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D1B64F7E-3826-404B-A69B-EB89B200102B}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D1B64F7E-3826-404B-A69B-EB89B200102B}.Debug|Win32.Build.0 = Debug|Win32
+		{D1B64F7E-3826-404B-A69B-EB89B200102B}.Release|Win32.ActiveCfg = Release|Win32
+		{D1B64F7E-3826-404B-A69B-EB89B200102B}.Release|Win32.Build.0 = Release|Win32
+		{1AB02242-E239-4C16-BF29-1748133EC5F0}.Debug|Win32.ActiveCfg = Debug|Win32
+		{1AB02242-E239-4C16-BF29-1748133EC5F0}.Debug|Win32.Build.0 = Debug|Win32
+		{1AB02242-E239-4C16-BF29-1748133EC5F0}.Release|Win32.ActiveCfg = Release|Win32
+		{1AB02242-E239-4C16-BF29-1748133EC5F0}.Release|Win32.Build.0 = Release|Win32
+		{50884459-E0A8-4454-BF41-E6646C9D0812}.Debug|Win32.ActiveCfg = Debug|Win32
+		{50884459-E0A8-4454-BF41-E6646C9D0812}.Debug|Win32.Build.0 = Debug|Win32
+		{50884459-E0A8-4454-BF41-E6646C9D0812}.Release|Win32.ActiveCfg = Release|Win32
+		{50884459-E0A8-4454-BF41-E6646C9D0812}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
